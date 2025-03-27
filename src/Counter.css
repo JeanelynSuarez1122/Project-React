@@ -1,0 +1,15 @@
+.Counter {
+  width: 160px; /* Makes it more square */
+  height: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 4px solid black;
+  border-radius: 10px; /* Slightly rounded edges */
+  background-color: rgb(136, 205, 63);
+  font-size: 2rem;
+  font-weight: bold;
+  color: black;
+  text-align: center;
+  margin: 10px auto; /* Centers horizontally */
+}
